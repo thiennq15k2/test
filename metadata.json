@@ -1,0 +1,16 @@
+{
+  "name": "Replace with Your collection name #1",
+  "description": "Replace with Your collection description",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1ok6v1h2bgfFiPMb8m2gO9l1FaloyESmCQ&s",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "trait 1 of image 1",
+      "value": "value 1 of image 1"
+    },
+    {
+      "trait_type": "trait 2 of image 1",
+      "value": "value 2 of image 1"
+    }
+  ]
+}
